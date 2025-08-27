@@ -73,10 +73,3 @@ The workspace follows the standard **colcon/ament** build structure.
    ros2 launch r2d2 <launch_file>.launch.py
    ```
 
----
-
-## 🛠 Notes
-- `build/`, `install/`, and `log/` are **auto-generated** → usually excluded from version control (`.gitignore`).
-- Only `src/` should be tracked in the repository.
-
----
