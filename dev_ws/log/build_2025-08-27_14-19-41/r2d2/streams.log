@@ -1,0 +1,53 @@
+[0.005s] Invoking command in '/home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2 -- -j2 -l2
+[0.026s] Invoked command in '/home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2 -- -j2 -l2
+[0.032s] Invoking command in '/home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2
+[0.036s] -- Install configuration: ""
+[0.037s] -- Execute custom install script
+[0.037s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/config/drive_bot.rviz
+[0.037s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/config/empty.yaml
+[0.037s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/config/gaz_ros2_ctl_use_sim.yaml
+[0.038s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/config/gazebo_params.yaml
+[0.038s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/config/joystick.yaml
+[0.038s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/config/main.rviz
+[0.038s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/config/map.rviz
+[0.038s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/config/mapper_params_online_async.yaml
+[0.038s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/config/my_controllers.yaml
+[0.038s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/config/nav2_params.yaml
+[0.038s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/config/twist_mux.yaml
+[0.039s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/config/view_bot.rviz
+[0.039s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/description/camera.xacro
+[0.039s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/description/depth_camera.xacro
+[0.039s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/description/face.xacro
+[0.039s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/description/gazebo_control.xacro
+[0.039s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/description/inertial_macros.xacro
+[0.040s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/description/lidar.xacro
+[0.040s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/description/robot.urdf.xacro
+[0.040s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/description/robot_core.xacro
+[0.040s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/description/ros2_control.xacro
+[0.040s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/launch/camera.launch.py
+[0.040s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/launch/joystick.launch.py
+[0.040s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/launch/launch_robot.launch.py
+[0.041s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/launch/launch_sim.launch.py
+[0.041s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/launch/localization_launch.py
+[0.041s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/launch/navigation_launch.py
+[0.041s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/launch/online_async_launch.py
+[0.041s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/launch/rplidar.launch.py
+[0.041s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/launch/rsp.launch.py
+[0.041s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/worlds/empty.world
+[0.042s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/worlds/obstacles.world
+[0.042s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/ament_index/resource_index/package_run_dependencies/r2d2
+[0.042s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/ament_index/resource_index/parent_prefix_path/r2d2
+[0.042s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/environment/ament_prefix_path.sh
+[0.042s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/environment/ament_prefix_path.dsv
+[0.043s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/environment/path.sh
+[0.043s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/environment/path.dsv
+[0.043s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/local_setup.bash
+[0.043s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/local_setup.sh
+[0.043s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/local_setup.zsh
+[0.043s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/local_setup.dsv
+[0.044s] -- Symlinking: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/package.dsv
+[0.050s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/ament_index/resource_index/packages/r2d2
+[0.050s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/cmake/r2d2Config.cmake
+[0.050s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/cmake/r2d2Config-version.cmake
+[0.050s] -- Up-to-date symlink: /home/andreagrandi/Developer/smart_robotics/dev_ws/install/r2d2/share/r2d2/package.xml
+[0.052s] Invoked command in '/home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2

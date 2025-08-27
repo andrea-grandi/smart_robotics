@@ -1,0 +1,1 @@
+/home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2/ament_cmake_core/r2d2Config-version.cmake

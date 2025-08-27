@@ -1,0 +1,4 @@
+Invoking command in '/home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2 -- -j2 -l2
+Invoked command in '/home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2 -- -j2 -l2
+Invoking command in '/home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2
+Invoked command in '/home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/andreagrandi/Developer/smart_robotics/dev_ws/build/r2d2
